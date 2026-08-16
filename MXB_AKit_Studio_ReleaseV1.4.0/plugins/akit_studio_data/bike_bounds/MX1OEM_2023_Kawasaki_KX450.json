@@ -1,0 +1,292 @@
+{
+  "bikeID": "MX1OEM_2023_Kawasaki_KX450",
+  "displayName": "MX1 2023 Kawasaki KX450",
+  "paramBounds": [
+    {
+      "name": "ForkOffset",
+      "paramIndex": 0,
+      "rawMin": 0,
+      "rawMax": 6,
+      "rawStep": 1,
+      "unit": "mm",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ForkOilLevel",
+      "paramIndex": 2,
+      "rawMin": 0,
+      "rawMax": 8,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ForkCompSlow",
+      "paramIndex": 3,
+      "rawMin": 0,
+      "rawMax": 30,
+      "rawStep": 1,
+      "unit": "clicks",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ForkCompFast",
+      "paramIndex": 4,
+      "rawMin": 0,
+      "rawMax": 30,
+      "rawStep": 1,
+      "unit": "clicks",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ForkReboundSlow",
+      "paramIndex": 5,
+      "rawMin": 0,
+      "rawMax": 16,
+      "rawStep": 1,
+      "unit": "clicks",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ForkReboundFast",
+      "paramIndex": 6,
+      "rawMin": 0,
+      "rawMax": 16,
+      "rawStep": 1,
+      "unit": "clicks",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ForkPreload",
+      "paramIndex": 7,
+      "rawMin": 0,
+      "rawMax": 18,
+      "rawStep": 1,
+      "unit": "mm",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ForkHeight",
+      "paramIndex": 8,
+      "rawMin": 0,
+      "rawMax": 20,
+      "rawStep": 1,
+      "unit": "mm",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ShockCompSlow",
+      "paramIndex": 9,
+      "rawMin": 0,
+      "rawMax": 15,
+      "rawStep": 1,
+      "unit": "clicks",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ShockCompFast",
+      "paramIndex": 10,
+      "rawMin": 0,
+      "rawMax": 30,
+      "rawStep": 1,
+      "unit": "clicks",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ShockReboundSlow",
+      "paramIndex": 11,
+      "rawMin": 0,
+      "rawMax": 19,
+      "rawStep": 1,
+      "unit": "clicks",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ShockReboundFast",
+      "paramIndex": 12,
+      "rawMin": 0,
+      "rawMax": 16,
+      "rawStep": 1,
+      "unit": "clicks",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "ForkSpring",
+      "paramIndex": 13,
+      "rawMin": 0,
+      "rawMax": 22,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "SwingarmLength",
+      "paramIndex": 14,
+      "rawMin": 0,
+      "rawMax": 20,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "RodLength",
+      "paramIndex": 16,
+      "rawMin": 0,
+      "rawMax": 6,
+      "rawStep": 1,
+      "unit": "mm",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "EngineMapping",
+      "paramIndex": 17,
+      "rawMin": 0,
+      "rawMax": 1,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "GearRatio1",
+      "paramIndex": 18,
+      "rawMin": 0,
+      "rawMax": 40,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "GearRatio2",
+      "paramIndex": 19,
+      "rawMin": 0,
+      "rawMax": 40,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "GearRatio3",
+      "paramIndex": 20,
+      "rawMin": 0,
+      "rawMax": 40,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "GearRatio4",
+      "paramIndex": 21,
+      "rawMin": 0,
+      "rawMax": 40,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "GearRatio5",
+      "paramIndex": 22,
+      "rawMin": 0,
+      "rawMax": 40,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "FrontPinion",
+      "paramIndex": 23,
+      "rawMin": 0,
+      "rawMax": 5,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "FrontSprocket",
+      "paramIndex": 24,
+      "rawMin": 0,
+      "rawMax": 7,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "FrontTirePressure",
+      "paramIndex": 29,
+      "rawMin": 0,
+      "rawMax": 28,
+      "rawStep": 1,
+      "unit": "bar index",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "RearTirePressure",
+      "paramIndex": 30,
+      "rawMin": 0,
+      "rawMax": 28,
+      "rawStep": 1,
+      "unit": "bar index",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    },
+    {
+      "name": "RearSprocket",
+      "paramIndex": 31,
+      "rawMin": 47,
+      "rawMax": 54,
+      "rawStep": 1,
+      "unit": "",
+      "displayMin": "",
+      "displayMax": "",
+      "displayStep": ""
+    }
+  ]
+}
